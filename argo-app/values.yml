@@ -1,4 +1,4 @@
-quarkus:
+quarkus-app:
   build:
     enabled: false
   deploy:
