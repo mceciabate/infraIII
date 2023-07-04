@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: subchart/
+    path: argo-app
     repoURL: https://github.com/mceciabate/infraIII
     targetRevision: main
   syncPolicy:
